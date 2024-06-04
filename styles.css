@@ -8,5 +8,22 @@
   h1{
     text-align: center;
     font: 30;
+    color: rgb(112, 11, 11)
   }
 
+  div.box {
+       
+    border: 3px solid rgb(194, 22, 22);
+    padding: 3px;
+
+    
+  }
+
+  div.center{
+    text-align: center;
+  }
+
+  div.marg{
+    margin: auto;
+    position: relative
+  }
