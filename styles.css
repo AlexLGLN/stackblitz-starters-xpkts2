@@ -1,4 +1,12 @@
-.box {
-  border: 3px solid #73Ad21;
-  padding: 5px;
+
+
+  body {
+    background-color: #fbdad2
   }
+
+
+  h1{
+    text-align: center;
+    font: 30;
+  }
+
