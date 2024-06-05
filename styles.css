@@ -1,29 +1,39 @@
 
 
   body {
-    background-color: #fbdad2
+    background-color: #6e90b3
   }
 
 
   h1{
+    background-color: rgb(47, 47, 183);
+    padding: 20px;
     text-align: center;
     font: 30;
-    color: rgb(112, 11, 11)
+    color: rgb(255, 255, 255)
   }
 
   div.box {
        
-    border: 3px solid rgb(194, 22, 22);
+    border: 3px solid rgb(183, 34, 17);
     padding: 3px;
+    margin: auto;
 
     
   }
 
   div.center{
+    border: 2px solid black;
+    padding: 2px;
     text-align: center;
+   
   }
 
   div.marg{
-    margin: auto;
     position: relative
+    left: 500px
   }
+
+ div.text{
+  font:italic
+ }
