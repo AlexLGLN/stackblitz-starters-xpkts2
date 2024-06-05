@@ -30,10 +30,18 @@
   }
 
   div.marg{
-    position: relative
-    left: 500px
+    position: relative;
+    left: 130px;
   }
 
  div.text{
-  font:italic
+  font: bolder;
+ }
+
+ div.contact{
+  position: absolute;
+  left: 300px;
+  background-color: rgb(47, 47, 183);
+  padding: 5px;
+  color:rgb(255, 255, 255);
  }
